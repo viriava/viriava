@@ -14,6 +14,9 @@
 ### Certifications
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
 
+### Participation
+- Gateway to Cosmos - Conference & Hackathon | May 2022
+
 ### Past
 - Product manager at GameFi Boost / Dec 2021 - Mar 2022 / NFT & Crypto Games. Play To Earn Gaming News
 - Co-founder of [reliablepsd.com](https://heyreliable.com) / Dec 2013 - Dec 2021 / A web development partner for freelancers, agencies and companies
