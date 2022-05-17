@@ -2,7 +2,7 @@
 - Project Manager at [MyCointainer](https://www.mycointainer.com) / Apr 2022 / Earn profits by holdings crypto assets
 
 ### Contribution
-- [Massa](https://massa.net){:target="_blank"} blockchain testnet validator node
+- [Massa](https://massa.net)[newtab] blockchain testnet validator node
 - [Aptos](https://aptoslabs.com) blockchain testnet validator node
 - [Minima](https://www.minima.global) blockchain testnet validator node
 
