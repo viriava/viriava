@@ -19,6 +19,10 @@
 - Co-founder of [reliablepsd.com](https://heyreliable.com) / Dec 2013 - Dec 2021 / A web development partner for freelancers, agencies and companies
 - Founder of crazyxhtml.com / Feb 2005 - Dec 2013 / IT outsource agency
 
+### Love
+- Tennis
+- [ClickUp](https://www.clickup.com)
+
 ### Contact me
 - [Linkedin](https://www.linkedin.com/in/viktorsolovej/)
 - [Telegram](https://t.me/viriava)
