@@ -7,16 +7,16 @@
 - [Minima](https://www.minima.global)) blockchain testnet validator node
 
 ### Learning
-- PMI PMP
-- Cosmos network
+- [PMI PMP](https://www.pmi.org/certifications/project-management-pmp)
+- [Cosmos](https://cosmos.network)
 - Linux
 
 ### Certifications
-- Certified Associate in Project Management (CAPM)®
+- [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
 
 ### Past
 - Product manager at GameFi Boost / Dec 2021 - Mar 2022 / NFT & Crypto Games. Play To Earn Gaming News
-- Co-founder of reliablepsd.com / Dec 2013 - Dec 2021 / A web development partner for freelancers, agencies and companies
+- Co-founder of [reliablepsd.com](https://heyreliable.com) / Dec 2013 - Dec 2021 / A web development partner for freelancers, agencies and companies
 - Founder of crazyxhtml.com / Feb 2005 - Dec 2013 / IT outsource agency
 
 ### Contact me
