@@ -15,7 +15,7 @@
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
 
 ### Participation
-- Gateway to Cosmos - Conference & Hackathon | May 2022 | Prague
+- Gateway to Cosmos - Conference & Hackathon / May 2022 / Prague
 
 ### Past
 - Product manager at GameFi Boost / Dec 2021 - Mar 2022 / NFT & Crypto Games. Play To Earn Gaming News
