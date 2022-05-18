@@ -6,6 +6,7 @@
 - [Aptos](https://aptoslabs.com) blockchain testnet validator node
 - [Minima](https://www.minima.global) blockchain testnet validator node
 - [StarkNet](https://starknet.io) blockchain testnet validator node
+- [Subspace](https://subspace.network) blockchain testnet validator node
 
 ### Learning
 - [PMI PMP](https://www.pmi.org/certifications/project-management-pmp)
