@@ -4,11 +4,14 @@
 ### Learning
 - [Professional Scrum Product Owner](https://www.scrum.org/courses/professional-scrum-product-owner-training)
 - [PMI PMP](https://www.pmi.org/certifications/project-management-pmp)
-- [Cosmos](https://cosmos.network)
+
+### DeFi participation
+- [Layer3](https://beta.layer3.xyz/0x263a131f6B5D10b1576215204d56480Ca8867997)
+- [Cosmos](https://cosmos.network) - Staking
 - [Arbitrum](https://arbitrum.io)
 - [Optimism](https://www.optimism.io)
 - [zkSync](https://zksync.io)
-- DeFi
+- Pools Osmosis, Uniswap, Umee, Aave
 
 ### Certifications
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
@@ -18,7 +21,7 @@
 - Next Block Expo - The Blockchain Festival of Europe / Nov 2022 / Berlin
 
 ### Past
-- Project Owner at [MyCointainer](https://www.mycointainer.com) / May 2022 / A digital wallet that allows users to earn rewards from the decentralized economy through staking, masternodes and airdrops.
+- Product Owner at [MyCointainer](https://www.mycointainer.com) / May 2022 / A digital wallet that allows users to earn rewards from the decentralized economy through staking, masternodes and airdrops.
 - Product manager at GameFi Boost / Dec 2021 - Mar 2022 / NFT & Crypto Games. Play To Earn Gaming News
 - Co-founder of [reliablepsd.com](https://heyreliable.com) / Dec 2013 - Dec 2021 / A web development partner for freelancers, agencies and companies
 - Founder of crazyxhtml.com / Feb 2005 - Dec 2013 / IT outsource agency
@@ -31,7 +34,7 @@
 ### Love
 - Tennis
 - [ClickUp](https://www.clickup.com)
-- [Layer3](https://beta.layer3.xyz)
+
 
 ### Contact me
 - [Linkedin](https://www.linkedin.com/in/viktorsolovej/)
