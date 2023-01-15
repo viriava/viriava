@@ -40,3 +40,4 @@
 - [Linkedin](https://www.linkedin.com/in/viktorsolovej/)
 - [Telegram](https://t.me/viriava)
 - [Twitter](https://twitter.com/Viktor_Solovey)
+- [Medium](https://medium.com/@viriava)
