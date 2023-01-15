@@ -31,7 +31,7 @@
 - [StarkNet](https://starknet.io) blockchain testnet validator node
 - [Subspace](https://subspace.network) blockchain testnet validator node
 
-### Love
+### I am fond of
 - Tennis
 - [ClickUp](https://www.clickup.com)
 
