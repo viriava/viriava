@@ -7,7 +7,7 @@
 
 ### DeFi participation
 - [Layer3](https://beta.layer3.xyz/0x263a131f6B5D10b1576215204d56480Ca8867997)
-- [Cosmos](https://cosmos.network) - Staking
+- [Cosmos Ecosystem](https://cosmos.network/ecosystem/apps) - Staking, DAO
 - [Arbitrum](https://arbitrum.io)
 - [Optimism](https://www.optimism.io)
 - [zkSync](https://zksync.io)
