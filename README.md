@@ -6,12 +6,17 @@
 - [PMI PMP](https://www.pmi.org/certifications/project-management-pmp)
 
 ### DeFi participation
+- [DeFiYield](https://defiyield.app/) - Portfolio overview
 - [Layer3](https://beta.layer3.xyz/0x263a131f6B5D10b1576215204d56480Ca8867997)
 - [Cosmos Ecosystem](https://cosmos.network/ecosystem/apps) - Staking, DAO
 - [Arbitrum](https://arbitrum.io) - DAO, Bridging
 - [Optimism](https://www.optimism.io) - DAO, Bridging
-- [zkSync](https://zksync.io)
-- Provide liquidity in Osmosis, Uniswap, Umee, Aave, GDX
+- [zkSync](https://zksync.io) - Bridging
+- [Osmosis](https://osmosis.zone) - Provide liquidity
+- [Uniswap](https://uniswap.org) - Provide liquidity
+- [Umee](https://umee.cc) - Supply, Borrow
+- [Aave](https://aave.com) - Supply
+- [GDX](https://gmx.io) - Provide liquidity
 
 ### Certifications
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
