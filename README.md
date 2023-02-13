@@ -1,10 +1,6 @@
 ### Current
 - Open for new opportunities
 
-### Learning
-- [Professional Scrum Product Owner](https://www.scrum.org/courses/professional-scrum-product-owner-training)
-- [PMI PMP](https://www.pmi.org/certifications/project-management-pmp)
-
 ### DeFi participation
 - Distributed Owner [POSTHUMAN VALIDATOR](https://posthuman.digital/)
 - [DeFiYield](https://defiyield.app/) - Portfolio overview
@@ -24,6 +20,7 @@
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/certified-associate-capm)
 
 ### Participation
+- Hack-a-TONx - The hackathon that brings together Web2 and Web3 developers, designers, PMs, technologists, and cypherpunks to prototype new blockchain-enabled products / Feb 2023 / Prague
 - Next Block Expo - The Blockchain Festival of Europe / Nov 2022 / Berlin
 - Gateway to Cosmos - Conference & Hackathon / May 2022 / Prague
 
